@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Tiwari</h1>
-<h3 align="center">I have good knowledge of AWS,DevOps & Java development</h3>
+<h3 align="center">Skills : AWS,DevOps & Java development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
